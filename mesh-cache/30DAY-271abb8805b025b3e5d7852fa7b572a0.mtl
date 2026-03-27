@@ -1,0 +1,28 @@
+newmtl Handle2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka 30DAY-78a1fe02ce4ca7bfe1b081c4431b4785
+map_Kd 30DAY-78a1fe02ce4ca7bfe1b081c4431b4785
+map_d 30DAY-78a1fe02ce4ca7bfe1b081c4431b4785
+
+newmtl Handle1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka 30DAY-3bfc9d4a0f9681eaf00b72273964f442
+map_Kd 30DAY-3bfc9d4a0f9681eaf00b72273964f442
+map_d 30DAY-3bfc9d4a0f9681eaf00b72273964f442
+
